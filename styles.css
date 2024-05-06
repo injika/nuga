@@ -75,6 +75,8 @@ button{
     border-radius: .5em;
     margin-top: 2em;
     align-items: center;
+    border: none;
+
 }
 
 button:hover {

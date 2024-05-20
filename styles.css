@@ -76,7 +76,6 @@ button{
     margin-top: 2em;
     align-items: center;
     border: none;
-
 }
 
 button:hover {
@@ -169,7 +168,7 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-  color:#2af9a6;
+  color:#00361d;
 }
 
 .hamburger {
@@ -246,7 +245,7 @@ a.nav-link:hover {
 
   a.nav-link {
     margin: 1rem 0;
-    color: #333;
+    color: #1f834d;
     z-index: 1;
   }
 
@@ -547,3 +546,8 @@ text-align: center;
     left: 0;
   }
 
+.responsive5{
+  width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
